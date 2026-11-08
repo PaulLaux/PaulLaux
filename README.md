@@ -6,4 +6,4 @@
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PaulLaux&theme=radical)
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=PaulLaux&theme=radical)
